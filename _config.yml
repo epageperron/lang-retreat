@@ -1,7 +1,6 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
-
-url: http://brianmaierjr.github.com/long-haul
+title: "International Cuneiform Languages Retreat 2018"
+description: "Web hub for the 2018 cuneiform language retreat 2018"
+url: http://sohnyrin.github.com/retreat2018
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -18,11 +17,13 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
-
+ - title: Venue
+   url: /venue
+ - title: Schedule
+   url: /schedule
+ - title: Participants
+   url: /participants
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   email: bepageperron@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""

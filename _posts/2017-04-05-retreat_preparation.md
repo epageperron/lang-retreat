@@ -4,7 +4,7 @@ title:  "Preparing Your Retreat"
 date:   2017-04-05
 ---
 
-<p class="intro"><span class="dropcap">A</span>assyriologists beware, colleagues are preparing a language workshop-retreat for summer 2018. This project is based on the [Early Hindi Braj Bhasha Workshop](http://www.orient.cas.cz/miranda2/m2/early-hindi-workshop/index.html) that has been successfully running many years</p>
+Aassyriologists beware, colleagues are preparing a language workshop-retreat for summer 2018. This project is based on the [Early Hindi Braj Bhasha Workshop](http://www.orient.cas.cz/miranda2/m2/early-hindi-workshop/index.html) that has been successfully running many years.
 
 Your hosts:
 - Émilie Pagé-Perron

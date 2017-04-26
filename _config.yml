@@ -15,7 +15,6 @@ navigation:
    url: /index.html
  - title: About
    url: /about
-   url: /venue
  - title: Schedule
    url: /schedule
  - title: Participants
@@ -23,6 +22,7 @@ navigation:
  - title: Contact
    url: /contact
  - title: Venue
+   url: /venue
 social:
    email: epageperron@gmail.com
 

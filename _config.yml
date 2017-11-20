@@ -1,6 +1,6 @@
-title: "International Cuneiform Languages Retreat 2018"
-description: "Web hub for the 2018 cuneiform language retreat 2018"
-url: http://sohnyrin.github.com/retreat2018
+title: "International Cuneiform Languages Retreat"
+description: "Web hub for the cuneiform language retreat"
+url: http://sohnyrin.github.com/lang-retreat
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/

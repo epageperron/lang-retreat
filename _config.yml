@@ -1,7 +1,7 @@
 title: "International Cuneiform Languages Retreat"
 description: "Web hub for the cuneiform language retreat"
-url: http://sohnyrin.github.com/lang-retreat
-baseurl: ""
+url: http://sohnyrin.github.com/
+baseurl: "lang-retreat/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 

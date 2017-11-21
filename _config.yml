@@ -1,6 +1,6 @@
 title: "International Cuneiform Languages Retreat"
 description: "Web hub for the cuneiform language retreat"
-url: http://epageperron.github.com/lang-retreat
+url: http://epageperron.github.io/lang-retreat
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
